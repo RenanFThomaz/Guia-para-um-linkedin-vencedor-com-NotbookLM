@@ -1,2 +1,1 @@
-# Guia-para-um-linkedin-vencedor-com-NotbookLM
-Estudo de como deixar o seu Linkedin competitivo com auxílio do NotbookLM
+Com o auxílio do **NotebookLM**, desenvolvi um guia com as principais estratégias para destacar seu perfil no **LinkedIn**. O material aborda tendências de recrutamento, boas práticas para atrair recrutadores e dicas para criar um currículo competitivo e aumentar suas chances no mercado de trabalho.
