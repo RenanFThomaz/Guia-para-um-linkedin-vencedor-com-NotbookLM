@@ -1,6 +1,8 @@
 # 💼 LinkedIn Guide 2026
 
 > **Guia completo para criar um perfil de LinkedIn atrativo, otimizado para o algoritmo da plataforma e preparado para chamar a atenção de recrutadores.**
+>
+> **LINK PARA ACESSO AO NOTBOOKLM : https://notebooklm.google.com/notebook/e96935db-6a34-4dc6-bd4e-88b2aa227f68
 
 ---
 
